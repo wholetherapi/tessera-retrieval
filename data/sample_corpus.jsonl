@@ -1,0 +1,5 @@
+{"id": 1, "text": "the zenith protocol defines a compact retrieval layout"}
+{"id": 2, "text": "segment metadata is shared across blocks to reduce overhead"}
+{"id": 3, "text": "postings are delta encoded and decoded in blocks"}
+{"id": 4, "text": "recall and latency are measured on three production systems"}
+{"id": 5, "text": "the protocol supports heterogeneous text collections"}
